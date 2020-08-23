@@ -11,7 +11,7 @@ function akan() {
     var YY = parseInt(date.substr(2, 4))
     var dayOfTheWeek = parseInt((CC / 4 - 2 * CC - 1 + (5 * YY) / 4 + (26 * (MM + 1)) / 10 + DD) % 7);
     if (gender === "Male") {
-    //     alert("Ghanian name: " + akanMaleNaming[dayOfTheWeek])
+        alert("Ghanian name: " + akanMaleNaming[dayOfTheWeek])
     // } else if (gender === "Female") {
     //     alert("" + akanFemaleNaming[dayOfTheWeek])
     // }
