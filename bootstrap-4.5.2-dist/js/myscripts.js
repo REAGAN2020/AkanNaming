@@ -13,6 +13,6 @@ function akan() {
     if (gender === "Male") {
         alert("Ghanian name: " + akanMaleNaming[dayOfTheWeek])
     } else if (gender === "Female") {
-        alert("" + akanFemaleNaming[dayOfTheWeek])
+        alert("Ghanian name" + akanFemaleNaming[dayOfTheWeek])
     }
 }
