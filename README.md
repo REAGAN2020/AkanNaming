@@ -37,15 +37,6 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
 
-## Project Screenshot
-
-- This is the landing page of the website
-  <img src="landing page.jpg">
-- The names that will display
-  <img src="names that will display.jpg">
-- The input form
-  <img src="page for input.jpg">
-
 ### Bug / Feature Request
 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/REAGAN2020/AkanNaming) by including your search query and the expected result.
