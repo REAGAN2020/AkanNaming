@@ -40,11 +40,11 @@ To fix a bug or enhance an existing module, follow these steps:
 ## Project Screenshot
 
 - This is the landing page of the website
-  <img src="landing page.png" width="300px">
+  <img src="landing page.png" width=300px>
 - The names that will display
-  <img src="names that will display.png" width="300px">
+  <img src="names that will display.png" width=300px>
 - The input form
-  <img src="page for input.png" width="300px">
+  <img src="page for input.png" width=300px>
 
 ### Bug / Feature Request
 
