@@ -3,8 +3,6 @@ var akanFemaleNaming = ["Akosua", "Adwoa", "Abenaa",  "Akua", "Yaa","Afua","Ama"
 function akan() {
 	var date = document.getElementById('date').value;
     var gender = document.getElementById('gender').value;
-    // alert(gender)
-    // alert(date)
     var CC = parseInt(date.substr(0, 2))
     var DD = parseInt(date.substr(8, 9))
     var MM = parseInt(date.substr(5, 7))
