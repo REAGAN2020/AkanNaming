@@ -53,7 +53,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## License
 
-[MIT © ](https://github.com/REAGAN2020/AkanNaming/blob/master/LICENSE.md)
+[MIT](LICENSE.md) ©
 
 The Star And Thank Author License (SATA)
 
