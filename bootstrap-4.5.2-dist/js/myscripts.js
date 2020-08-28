@@ -30,5 +30,5 @@ function akan() {
 		alert('Ghanian name: ' + akanMaleNaming[dayOfTheWeek]);
 	} else if (gender === 'Female') {
 		alert('Ghanian name' + akanFemaleNaming[dayOfTheWeek]);
-	}
+	} else alert('invalid input');
 }
